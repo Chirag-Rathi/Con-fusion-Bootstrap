@@ -1,6 +1,6 @@
 .row-header{
 	margin: 0px auto;
-	padding: 0px auto;
+	padding: 0px;
 }
 
 .row-content{
@@ -27,4 +27,12 @@
 	font-size: 80%;
 	margin: 0px;
 	color: #0f0f0f;
+}
+
+.container-custom{
+	margin: 0px;
+}
+
+.container{
+	padding-bottom: 50px;
 }
